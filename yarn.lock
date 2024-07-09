@@ -2038,9 +2038,6 @@
 "@modules/azure-ad-auth@file:./modules/azure-ad-auth":
   version "1.0.0"
 
-"@modules/azure-ad-auth@file:./modules/azure-ad-auth/":
-  version "1.0.0"
-
 "@modules/faq@file:./modules/faq":
   version "1.0.0"
 
@@ -2048,6 +2045,9 @@
   version "1.0.0"
 
 "@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
+  version "1.0.0"
+
+"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics/":
   version "1.0.0"
 
 "@modules/onboarding@file:./modules/onboarding":
