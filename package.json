@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/azure-ad-auth": "file:./modules/azure-ad-auth/",
+    "@modules/faq": "file:./modules/faq",
     "@modules/maps": "file:./modules/maps/",
     "@modules/mixpanel-analytics": "file:./modules/mixpanel-analytics/",
     "@modules/onboarding": "file:./modules/onboarding/",
