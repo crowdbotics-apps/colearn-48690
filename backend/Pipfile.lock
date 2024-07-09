@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d4c164770fff29cf147ec5301cb3c5617e06af2e9fe94692103d66d01129bc85"
+            "sha256": "cfa1339922f5e9c4b0bb2aaf2fc69e3471ed9f6f588bf967b7115a7d0c3aa764"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -119,6 +119,10 @@
         "cb-django-typeform-webhook": {
             "editable": true,
             "path": "./modules/django_typeform_webhook"
+        },
+        "cb-terms-and-conditions": {
+            "editable": true,
+            "path": "./modules/terms_and_conditions"
         },
         "certifi": {
             "hashes": [
